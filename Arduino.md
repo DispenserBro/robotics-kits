@@ -21,7 +21,7 @@ Amperka: https://amperka.ru/collection/kits (1 набор + 3 дополнени
 |Дисплей TM1637|https://ali.ski/Q7JHS|1||Гнездо 5.5×2.1|https://ali.onl/2aNR|1|
 |Дисплей OLED 0.96″ I2C|https://ali.ski/s6ZzA|1||ИК-Пульт + приемник + передатчик|https://ali.ski/KQAAZ|1|
 |Потенциометр 10 кОм|https://ali.ski/5S0RGr|5||Кнопка большая|https://ali.ski/zbpF6|25|
-|Энкодер-модуль|https://ali.ski/hLLQ3|2||Деталь|Сенсорная кнопка|5|
+|Энкодер-модуль|https://ali.ski/hLLQ3|2||Сенсорная кнопка|https://ali.ski/tOrl_s|5|
 |Джойстик-модуль|https://ali.ski/DUWLrC|2||Клавиатура мембранная 4×4|https://ali.ski/IzedF|1|
 |Bluetooth-модуль|https://ali.ski/ZtVvj|1||Считыватель RFID RC-522 + метка|https://ali.ski/1NrAx4|1|
 |Бесконтактная RFID-карта|https://ali.ski/1NrAx4|1||Сервопривод MG90S|https://ali.ski/Gylw8x|4|
