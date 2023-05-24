@@ -9,7 +9,9 @@
 ## Платы расширения
 
 AliExpress: https://ali.onl/2aPe
+
 Amperka: https://amperka.ru/collection/raspberry-pi-cap
+
 Compacttool: https://compacttool.ru/raspberry-pi/raspberry-pi-rasshireniya/
 
 
